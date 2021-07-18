@@ -100,11 +100,4 @@ Useful tools and packages
     black # to format code to meet python coding standards
     pip-check -H  # to see upgradable packages
 
-Contributors
-============
-
-This project exists thanks to all the people who contribute!
-
-.. figure:: https://opencollective.com/django-crm/contributors.svg?width=890&button=false
-   :alt: image
 
